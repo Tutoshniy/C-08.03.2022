@@ -1,0 +1,15 @@
+D:\GEEKSCHOOL\C#_Homework\Tasks2\Number2\obj\Debug\net6.0\Number2.csproj.AssemblyReference.cache
+D:\GEEKSCHOOL\C#_Homework\Tasks2\Number2\obj\Debug\net6.0\Number2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GEEKSCHOOL\C#_Homework\Tasks2\Number2\obj\Debug\net6.0\Number2.AssemblyInfoInputs.cache
+D:\GEEKSCHOOL\C#_Homework\Tasks2\Number2\obj\Debug\net6.0\Number2.AssemblyInfo.cs
+D:\GEEKSCHOOL\C#_Homework\Tasks2\Number2\obj\Debug\net6.0\Number2.csproj.CoreCompileInputs.cache
+D:\GEEKSCHOOL\C#_Homework\Tasks2\Number2\bin\Debug\net6.0\Number2.exe
+D:\GEEKSCHOOL\C#_Homework\Tasks2\Number2\bin\Debug\net6.0\Number2.deps.json
+D:\GEEKSCHOOL\C#_Homework\Tasks2\Number2\bin\Debug\net6.0\Number2.runtimeconfig.json
+D:\GEEKSCHOOL\C#_Homework\Tasks2\Number2\bin\Debug\net6.0\Number2.dll
+D:\GEEKSCHOOL\C#_Homework\Tasks2\Number2\bin\Debug\net6.0\Number2.pdb
+D:\GEEKSCHOOL\C#_Homework\Tasks2\Number2\obj\Debug\net6.0\Number2.dll
+D:\GEEKSCHOOL\C#_Homework\Tasks2\Number2\obj\Debug\net6.0\refint\Number2.dll
+D:\GEEKSCHOOL\C#_Homework\Tasks2\Number2\obj\Debug\net6.0\Number2.pdb
+D:\GEEKSCHOOL\C#_Homework\Tasks2\Number2\obj\Debug\net6.0\Number2.genruntimeconfig.cache
+D:\GEEKSCHOOL\C#_Homework\Tasks2\Number2\obj\Debug\net6.0\ref\Number2.dll
